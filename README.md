@@ -22,7 +22,11 @@ This project is a custom PCB designed in KiCad for an SpO2 (blood oxygen saturat
 - Custom footprint libraries
 
 ## PCB Preview
-(images here)
+
+<img width="1139" height="702" alt="Screenshot (1360)" src="https://github.com/user-attachments/assets/5206347c-1aac-48d3-a6d8-b7fd9b40de55" />
+
+
+
 
 ## Future Improvements
 - Improve analog filtering
